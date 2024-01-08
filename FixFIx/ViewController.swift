@@ -9,9 +9,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    let name: String = "jhgfdsa"
+    var age: Int = 20
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
     }
 
 

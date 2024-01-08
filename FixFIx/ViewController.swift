@@ -12,6 +12,8 @@ class ViewController: UIViewController {
     let name: String = "jhgfdsa"
     var age: Int = 20
     
+    var name2: String = "sfdgfhgh"
+    
     override func viewDidLoad() {
         super.viewDidLoad()
     }
